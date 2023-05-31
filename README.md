@@ -4,6 +4,7 @@
 [![Pytest](https://img.shields.io/badge/-Pytest-blue?logo=pytest&logoColor=white&style=flat)](https://docs.pytest.org/en/7.2.x/)&nbsp;
 [![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=Django&logoColor=white)](https://www.djangoproject.com)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)](https://html.spec.whatwg.org)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
